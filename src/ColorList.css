@@ -1,0 +1,25 @@
+.ColorListContainer {
+    text-align: center;
+}
+
+.ColorList {
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(39, 39, 39);
+    font-size: 1.25rem;
+    color: white;
+}
+
+.ColorList h1 {
+    margin-top: 0;
+}
+
+.ColorList a {
+    font-size: 2rem;
+    color: white;
+}
+
+.Colors a {
+    display: block;
+    font-size: 1.1rem;
+}
